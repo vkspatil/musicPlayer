@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*Drawer Sidebar Scrollbar Style  */
+/* .MuiDrawer-paper::-webkit-scrollbar {
+  width: 7px !important;
+}
+
+.MuiDrawer-paper::-webkit-scrollbar-track {
+  background: white !important;
+}
+
+.MuiDrawer-paper::-webkit-scrollbar-thumb {
+  background-color: #dfe6e9;
+  border-radius: 80px;
+  border: 1px solid #a3a5a5;
+} */
+
+
