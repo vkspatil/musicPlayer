@@ -81,7 +81,7 @@ const MainPlayer = () => {
               className="text-gray-200"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
             >
-              {isMenuOpen ? "Close" : "Menu"}
+              {isMenuOpen ? "Close" : "List"}
             </button>
           )}
         </div>
